@@ -68,7 +68,6 @@ buildLarkParams {
     msgtype = "interactive"
     //是否@全体群人员，默认false：isAtAll = true
     isAtAll = false
-
     clickTxt = "点击进行下载"
     //是否单独支持发送Git记录数据，在配置了buildGitLogParams前提下有效，默认为true
     isSupportGitLog = true
